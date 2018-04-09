@@ -4,7 +4,7 @@
 // @version      0.1
 // @description  Show a slimmed printer-friendly version of a code review
 // @author       You
-// @match        https://github.com/*/pull/*/files/*
+// @match        https://github.com/*/pull/*/files*
 // @grant        none
 // @require      https://code.jquery.com/jquery-3.3.1.slim.min.js#sha256=3edrmyuQ0w65f8gfBsqowzjJe2iM6n0nKciPUp8y+7E=
 // ==/UserScript==
